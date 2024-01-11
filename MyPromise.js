@@ -47,4 +47,4 @@ downloading(url1).then(function(result) {
     return downloading(url3)
 }).then(function(result) {
     console.log(result)
-}) aaa*/
+}) */
